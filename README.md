@@ -83,13 +83,8 @@ It works backwards through prerequisite concepts to discover the root of a learn
    cd The-Baseline-Dig
    ```
 
-3. Install the required dependencies (if a requirements.txt file is provided):
 
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run the application:
+3. Run the application:
 
    ```bash
    python main.py
